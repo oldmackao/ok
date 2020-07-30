@@ -1,0 +1,25 @@
+@font-face {
+   font-family: 'GenRyuMinTW-Heavy';
+   font-display: swap;
+   src: url('GenRyuMinTW-Heavy/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoMinTW-Heavy';
+   font-display: swap;
+   src: url('GenYoMinTW-Heavy/font.ttf');
+}
+@font-face {
+   font-family: 'GenRyuMinTW-ExtraLight';
+   font-display: swap;
+   src: url('GenRyuMinTW-ExtraLight/font.ttf');
+}
+@font-face {
+   font-family: 'GenRyuMinTW-Light';
+   font-display: swap;
+   src: url('GenRyuMinTW-Light/font.ttf');
+}
+@font-face {
+   font-family: 'GenRyuMinTW-Medium';
+   font-display: swap;
+   src: url('GenRyuMinTW-Medium/font.ttf');
+}
